@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_sass",
+  "version": "1.0.0",
+  "description": "playground",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donald-Brown/bootstrap_sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donald-Brown/bootstrap_sass/issues"
+  },
+  "homepage": "https://github.com/Donald-Brown/bootstrap_sass#readme"
+}
